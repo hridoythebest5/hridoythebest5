@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hridoythebest5
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning Web and Android Development
+- 🌱 I’m currently learning Advance Web and Android Development
 - 💞️ I’m looking to collaborate on Programming
 - 📫 How to reach me ... hridoythebest@gmail.com
 
